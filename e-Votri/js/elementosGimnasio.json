@@ -1,0 +1,13 @@
+[
+    {"codigo": 1, "nombre": "Par mancuernas 2kg", "imagen": "🔩🔩", "precio": 2000},
+    {"codigo": 2, "nombre": "Par mancuernas 4kg", "imagen": "🔩🔩", "precio": 4000},
+    {"codigo": 3, "nombre": "Par mancuernas 6kg", "imagen": "🔩🔩", "precio": 6000},
+    {"codigo": 4, "nombre": "Par mancuernas 8kg", "imagen": "🔩🔩", "precio": 8000},
+    {"codigo": 5, "nombre": "Par mancuernas 10kg", "imagen": "🔩🔩", "precio": 10000},
+    {"codigo": 6, "nombre": "Barra 10kg", "imagen": "🔧", "precio": 7000},
+    {"codigo": 7, "nombre": "Barra 20kg", "imagen": "🔧", "precio": 14000},
+    {"codigo": 8, "nombre": "Par discos 5kg", "imagen": "📀📀", "precio": 5000},
+    {"codigo": 9, "nombre": "Par discos 10kg", "imagen": "📀📀", "precio": 10000},
+    {"codigo": 10, "nombre": "Par discos 15kg", "imagen": "📀📀", "precio": 15000},
+    {"codigo": 11, "nombre": "Colchoneta", "imagen": "🎫", "precio": 3500}
+]
